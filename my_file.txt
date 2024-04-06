@@ -1,0 +1,6 @@
+Hello, welcome to python file handling module.
+12345
+This is another statement with some numbers: 56789
+Appending line 4.
+67890
+This is line 6, added during appending.
